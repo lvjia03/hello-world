@@ -9,3 +9,5 @@ str[i]=src[i];
 str[len]='\0';
 return str;
 }
+/**
+Remote edit B21031505吕佳
